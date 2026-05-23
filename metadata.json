@@ -1,0 +1,6 @@
+{
+  "name": "CustomBouquet",
+  "description": "Premium Korean-style AI boutique designer and personalized emotional gifting experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
